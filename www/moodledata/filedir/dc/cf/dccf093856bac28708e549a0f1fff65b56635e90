@@ -1,0 +1,252 @@
+Python'da görsel kullanıcı arayüzleri (GUI) oluşturmak için hangi kütüphane en yaygın olarak kullanılır?
+A) Django
+B) Flask
+C) Tkinter
+D) Numpy
+E) Pandas
+ANSWER: C
+Tkinter kütüphanesi içerisinde, bir pencere oluşturmak için kullanılan temel sınıf hangisidir?
+A) Frame
+B) Label
+C) Window
+D) Tk
+E) Canvas
+ANSWER: D
+Tkinter'da, bir buton oluştururken hangi parametre resim eklemek için kullanılır?
+A) image
+B) photo
+C) icon
+D) picture
+E) img
+ANSWER: A
+PyQt5'te, bir widget'i gizlemek için kullanılan metot hangisidir?
+A) hide()
+B) disappear()
+C) vanish()
+D) remove()
+E) conceal()
+ANSWER: A
+Python Tkinter'da, birden fazla seçim yapılabilen bir liste kutusu oluşturmak için hangi özellik ayarlanır?
+A) multi
+B) multiple
+C) selectmode
+D) selectmultiple
+E) multiselect
+ANSWER: C
+PyQt5'te, birden fazla widget'ı dikey olarak sıralamak için kullanılan layout sınıfı hangisidir?
+A) QVBoxLayout
+B) QHBoxLayout
+C) QGridLayout
+D) QStackedLayout
+E) QFormLayout
+ANSWER: A
+Tkinter'da, bir pencereye scrollbar eklemek için hangi widget kullanılır?
+A) Scroll
+B) Scroller
+C) Scrollbar
+D) Slider
+E) Rollbar
+ANSWER: C
+PyQt5'te, bir uygulamanın ana penceresine bir durum çubuğu eklemek için kullanılan PyQt5 sınıfı hangisidir?
+A) QStatusBar
+B) QToolbar
+C) QStatus
+D) QMenuBar
+E) QFooter
+ANSWER: A
+Python Tkinter'da, kullanıcı arayüzündeki öğelerin renklerini değiştirmek için hangi anahtar kelime argümanı kullanılır?
+A) color
+B) bg (background)
+C) fg (foreground)
+D) shade
+E) tint
+ANSWER: B
+PyQt5 programlamada, bir düğmenin tıklanma olayını yakalamak için hangi sinyal kullanılır?
+A) clicked()
+B) onPressed()
+C) onActivated()
+D) triggered()
+E) actionPerformed()
+ANSWER: A
+Tkinter'da, bir butona basıldığında belirli bir işlevi tetiklemek için hangi Python özelliği genellikle kullanılır?
+A) action
+B) command
+C) trigger
+D) run
+E) execute
+ANSWER: B
+Python ile PyQt kullanırken, bir pencerenin sol üst köşesine bir simge eklemek için kullanılan metot hangisidir?
+A) setWindowIcon()
+B) addIcon()
+C) putIcon()
+D) setIcon()
+E) createIcon()
+ANSWER: A
+Tkinter'da, bir pencereyi programatik olarak kapatmak için hangi metot kullanılır?
+A) close()
+B) destroy()
+C) exit()
+D) quit()
+E) terminate()
+ANSWER: B
+PyQt5'te, bir widget'e araç ipucu (tooltip) eklemek için hangi metot kullanılır?
+A) setTooltip()
+B) addTooltip()
+C) tooltip()
+D) setToolTip()
+E) createToolTip()
+ANSWER: D
+Python Tkinter'da, bir öğe eklemek istediğinizde kullanabileceğiniz yöntemlerden biri nedir?
+A) pack()
+B) push()
+C) insert()
+D) append()
+E) attach()
+ANSWER: A
+PyQt5'te, kullanıcı arayüzündeki bir etiketin metnini değiştirmek için hangi metot kullanılır?
+A) changeText()
+B) setText()
+C) modifyText()
+D) updateLabel()
+E) setLabel()
+ANSWER: B
+Tkinter'da, bir kullanıcı bir butona tıkladığında çağrılacak fonksiyonu tanımlamak için hangi parametre kullanılır?
+A) call
+B) run
+C) command
+D) execute
+E) trigger
+ANSWER: C
+Python'da, görsel programlama yaparken hangi modül sayesinde çeşitli grafikler ve çizimler yapılabilir?
+A) matplotlib
+B) seaborn
+C) plotly
+D) graphics
+E) drawing
+ANSWER: A
+PyQt5'te sinyal ve slot mekanizması, hangi programlama konseptiyle ilişkilendirilir?
+A) Fonksiyonel Programlama
+B) Nesne Yönelimli Programlama
+C) Prosedürel Programlama
+D) Olay Tabanlı Programlama
+E) Reaktif Programlama
+ANSWER: D
+Tkinter'da, kullanıcı girdisini almak için kullanılan widget hangisidir?
+A) Label
+B) Button
+C) Entry
+D) Text
+E) Input
+ANSWER: C
+PyQt5 uygulamasında, bir menü öğesine tıklanıldığında çalıştırılacak fonksiyonu tanımlamak için hangi PyQt5 sınıfı kullanılır?
+A) QAction
+B) QEvent
+C) QFunction
+D) QRun
+E) QTrigger
+ANSWER: A
+Tkinter ile oluşturulan bir GUI uygulamasında, arayüzü sürekli güncel tutmak için hangi Tkinter metodu kullanılır?
+A) mainloop()
+B) continueloop()
+C) runloop()
+D) execute()
+E) loop()
+ANSWER: A
+Python Tkinter'da, bir pencerenin başlığını ayarlamak için kullanılan metot nedir?
+A) setTitle()
+B) setHeader()
+C) nameWindow()
+D) title()
+E) header()
+ANSWER: D
+PyQt5'te, bir pencere içindeki düzeni belirlemek için kullanılan widget hangisidir?
+A) QLayout
+B) QFormLayout
+C) QVBoxLayout
+D) QHBoxLayout
+E) QGridLayout
+ANSWER: E
+Tkinter kütüphanesinde, bir widget'i bir başka widget'e göre konumlandırmak için hangi metot kullanılır?
+A) place()
+B) position()
+C) locate()
+D) setplace()
+E) fix()
+ANSWER: A
+Python'da görsel kullanıcı arayüzleri (GUI) oluşturmak için hangi kütüphane en yaygın olarak kullanılır?
+A) Django
+B) Flask
+C) Tkinter
+D) Numpy
+E) Pandas
+ANSWER: C
+Tkinter kütüphanesi içerisinde, bir pencere oluşturmak için kullanılan temel sınıf hangisidir?
+A) Frame
+B) Label
+C) Window
+D) Tk
+E) Canvas
+ANSWER: D
+Aşağıdakilerden hangisi Python ile PyQt kullanırken bir düğme(widget) eklemek için kullanılan sınıftır?
+A) QPushButton
+B) QButton
+C) QToolbar
+D) QAction
+E) QLabel
+ANSWER: A
+Etkileşimli bir Python GUI uygulamasında, bir kullanıcı bir düğmeye tıkladığında gerçekleşecek eylemi tanımlamak için hangi terim kullanılır?
+A) Function
+B) Event
+C) Action
+D) Command
+E) Trigger
+ANSWER: D
+Python Tkinter'da, metin etiketi eklemek için hangi widget kullanılır?
+A) Text
+B) Label
+C) Entry
+D) TextBox
+E) Message
+ANSWER: B
+PyQt5 kütüphanesinde, bir ana pencereye menü çubuğu eklemek için hangi sınıf kullanılır?
+A) QMenuBar
+B) QMenu
+C) QMainWindow
+D) QAction
+E) QToolbar
+ANSWER: A
+Tkinter'da, birden fazla satırı olan metin giriş alanı için hangi widget tercih edilir?
+A) Text
+B) Label
+C) Entry
+D) MessageBox
+E) Scrollbar
+ANSWER: A
+PyQt5'te, bir uygulamayı başlatmak ve çalıştırmak için hangi metot sürekli olarak çağrılır?
+A) run()
+B) start()
+C) execute()
+D) launch()
+E) exec_()
+ANSWER: E
+Tkinter kütüphanesi ile bir liste kutusu widget'ı eklemek için kullanılan widget'ın adı nedir?
+A) ListBox
+B) ListWidget
+C) ComboBox
+D) Menu
+E) List
+ANSWER: A
+PyQt5 kullanılarak oluşturulan bir pencerede, pencere boyutunu sabitlemek için hangi metot kullanılır?
+A) fixSize()
+B) setFixedSize()
+C) setWindowFixed()
+D) lockSize()
+E) setSizeLock()
+ANSWER: B
+Python Tkinter ile bir pencereyi ekranda ortalamak için ilk adım nedir?
+A) Pencerenin boyutunu ayarla
+B) Pencerenin yerini ayarla
+C) Pencereyi yarat
+D) Pencerenin geometrisini hesapla
+E) Pencereyi göster
+ANSWER: D

@@ -1,0 +1,209 @@
+Moodle'da kullanıcıların rollerini değiştirmek için hangi rol gerekir?
+A. Öğrenci
+B. Öğretmen
+C. Yönetici
+D. Misafir
+ANSWER: C
+
+Moodle'da kullanıcılar için hangi iki ana raporlama seçeneği vardır?
+A. Kurs raporları ve site raporları
+B. Öğrenci raporları ve öğretmen raporları
+C. Performans raporları ve gelişim raporları
+D. Katılım raporları ve aktivite tamamlama raporları
+ANSWER: A
+
+Moodle'da bir kurs için gerekli olan en az yapılandırma nedir?
+A. Kurs adı ve özet
+B. Kurs adı ve başlangıç tarihi
+C. Kurs adı ve kayıt anahtarı
+D. Kurs adı ve bitiş tarihi
+ANSWER: A
+
+Moodle kurslarında hangi tip içerikler yüklenebilir?
+A. Yalnızca metin dosyaları
+B. Yalnızca video dosyaları
+C. Metin, video, resim ve PDF dahil her türlü dosya
+D. Yalnızca resim dosyaları
+ANSWER: C
+
+Moodle platformunda, öğrencilerin birbirleriyle etkileşimde bulunmaları için hangi araç sıklıkla kullanılır?
+A. E-posta
+B. Forumlar
+C. Anketler
+D. Özel mesajlar
+ANSWER: B
+
+Moodle'da bir dersin içerik yapısı nasıl organize edilir?
+A. Bölümler ve etkinlikler
+B. Bölümler ve dersler
+C. Dersler ve modüller
+D. Modüller ve etkinlikler
+ANSWER: A
+
+Moodle'da hangi özellik öğrencilere belirli bir konu hakkında geribildirim toplamak için kullanılır?
+A. Forumlar
+B. Anketler
+C. Geri Bildirim
+D. Sınavlar
+ANSWER: C
+
+Moodle platformunda ders içeriği olarak hangi tür medya entegrasyonları yapılabilmektedir?
+A. Yalnızca metin ve resim
+B. Video, ses, resim ve metin
+C. Yalnızca video ve ses
+D. Yalnızca ses ve metin
+ANSWER: B
+
+Moodle'da, bir kursa eklenen tüm kullanıcıların kayıtlarını görmek için kullanılan rapor hangisidir?
+A. Kullanıcı raporu
+B. Kurs raporu
+C. Katılım raporu
+D. Kayıt raporu
+ANSWER: D
+
+Moodle içinde hangi modül proje tabanlı öğrenme için kullanılır?
+A. Atölye
+B. Ders
+C. Sınav
+D. Forum
+ANSWER: A
+
+Moodle'da, öğretmenlerin ders materyallerini zamanla yayınlamalarını sağlayan özellik nedir?
+A. Zamanlanmış gönderimler
+B. Zamanlanmış erişim kısıtlamaları
+C. Zamanlanmış etkinlikler
+D. Zamanlanmış kayıtlar
+ANSWER: B
+
+Moodle platformunda kullanılan temel iletişim aracı nedir?
+A. E-posta
+B. Forumlar
+C. Anketler
+D. Bloglar
+ANSWER: B
+
+Moodle içinde öğrencilerin katılımını takip etmek için hangi modül kullanılır?
+A. Ders
+B. Katılım
+C. Forum
+D. Sınav
+ANSWER: B
+
+Moodle kurs sayfasında hangi özellik kurs içeriğini belirli gruplara göre ayırmayı sağlar?
+A. Grup seçimi
+B. Grup modu
+C. Bireysel öğrenme yolları
+D. Katılımcı filtreleme
+ANSWER: B
+
+Moodle'da, öğrencilerin ders içeriklerine erişebilmesi için hangi ayar mutlaka yapılmalıdır?
+A. Kursa özgü bir e-posta adresi oluşturulmalı
+B. Kursa özel bir kayıt anahtarı belirlenmeli
+C. Öğrencilerin kullanıcı adları ve şifreleri olmalı
+D. Kurs tamamlanma kriterleri belirlenmeli
+ANSWER: C
+
+Moodle'un ana kullanım amacı nedir?
+A. Videoları depolamak
+B. E-posta göndermek
+C. Eğitim içerikleri sunmak
+D. Veri analizi yapmak
+ANSWER: C
+
+Moodle hangi programlama dilinde yazılmıştır?
+A. Python
+B. Java
+C. PHP
+D. C#
+ANSWER: C
+
+Moodle, hangi tür veritabanları ile uyumludur?
+A. Yalnızca MySQL
+B. Yalnızca Oracle
+C. MySQL, PostgreSQL, MariaDB ve diğerleri
+D. Yalnızca SQL Server
+ANSWER: C
+
+Moodle için hangi lisans kullanılır?
+A. GPL
+B. MIT
+C. Apache
+D. BSD
+ANSWER: A
+
+Moodle LMS'de kurs oluşturmak için hangi rolün gerekliliği vardır?
+A. Öğrenci
+B. Misafir
+C. Öğretmen
+D. Yönetici
+ANSWER: C
+
+Moodle'da, bir kursa kimler katılabilir?
+A. Yalnızca kayıtlı kullanıcılar
+B. Herkes
+C. Yalnızca öğretmenler
+D. Yalnızca yöneticiler
+ANSWER: A
+
+Moodle'da sınav oluşturmak için kullanılan modül hangisidir?
+A. Atölye
+B. Forum
+C. Ders
+D. Sınav
+ANSWER: D
+
+Moodle'da hangi modül tartışma forumları için kullanılır?
+A. Ders
+B. Atölye
+C. Forum
+D. Sınav
+ANSWER: C
+
+Moodle hangi tip sunucuda çalıştırılabilir?
+A. Yalnızca Windows
+B. Yalnızca Linux
+C. Herhangi bir web sunucusu
+D. Yalnızca MacOS
+ANSWER: C
+
+Moodle içerisinde yer alan "Kitap" kaynağı ne amaçla kullanılır?
+A. Videoları sıralamak için
+B. Çok sayfalı kaynaklar oluşturmak için
+C. Forum tartışmaları başlatmak için
+D. Sınav soruları eklemek için
+ANSWER: B
+
+Moodle kullanıcılarına özel mesaj gönderme özelliği hangi modül altında bulunur?
+A. Mesajlar
+B. Forumlar
+C. Bloglar
+D. Takvim
+ANSWER: A
+
+Moodle'da bir öğrencinin kursa kaydını iptal etmek için hangi rol gereklidir?
+A. Öğrenci
+B. Öğretmen
+C. Yönetici
+D. Misafir
+ANSWER: C
+
+Moodle LMS'de, öğrencilerin bir kursa otomatik kaydolmalarını sağlamak için hangi özellik kullanılır?
+A. Misafir erişimi
+B. Kayıt anahtarı
+C. Öz kayıt
+D. Grup kaydı
+ANSWER: C
+
+Moodle kurslarında gruplar oluşturulabilir mi?
+A. Evet
+B. Hayır
+C. Yalnızca yöneticiler tarafından
+D. Yalnızca öğretmenler tarafından
+ANSWER: A
+
+Moodle kurs sayfasında hangi tür bloklar eklenebilir?
+A. Yalnızca metin blokları
+B. Yalnızca resim blokları
+C. Metin, resim, video, ve daha fazlası
+D. Yalnızca video blokları
+ANSWER: C
