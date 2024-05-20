@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://moodle.test';
-$CFG->dataroot  = 'C:\\laragon\\www\\moodledata';
+$CFG->dataroot  = 'C:\\MoodleProje\\www\\moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
